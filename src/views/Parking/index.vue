@@ -72,6 +72,7 @@
     </div>
 </template>
 <script>
+// API
 import {ParkingList} from "@/api/parking"
 export default {
     name: "Parking",
